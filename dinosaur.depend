@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1619896727 source:c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\game_base.cpp
+	"Game_Base.h"
+
+1620136936 c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\game_base.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<ctime>
+
+1619896727 source:c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\button.cpp
+	"Button.h"
+
+1619896727 c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\button.h
+	"Game_Base.h"
+	"LTexture.h"
+
+1619897689 c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\ltexture.h
+	"Game_Base.h"
+
+1619896727 source:c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\character.cpp
+	"Character.h"
+
+1619896727 c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\character.h
+	"LTexture.h"
+
+1619896727 source:c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\enemy.cpp
+	"Enemy.h"
+
+1619896727 c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\enemy.h
+	"LTexture.h"
+
+1619896727 source:c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\ltexture.cpp
+	"LTexture.h"
+
+1620125074 source:c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\game_utils.cpp
+	"Game_Utils.h"
+	<string.h>
+
+1620135941 c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\game_utils.h
+	"Game_Base.h"
+	"Enemy.h"
+	"Character.h"
+
+1620136164 source:c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\main.cpp
+	"Game_Base.h"
+	"Game_Utils.h"
+	"LTexture.h"
+	"Character.h"
+	"Enemy.h"
+
+1619899926 c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\textobject.h
+	"Game_Base.h"
+
+1620124961 source:c:\users\asus\dropbox\my pc (laptop-mi4emdf1)\documents\dinosaur\textobject.cpp
+
